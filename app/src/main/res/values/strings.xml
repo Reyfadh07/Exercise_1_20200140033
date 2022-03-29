@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Exercise_1_20200140033</string>
+    <string name="buttonsignin">Sign-in</string>
+    <string name="tulisanloginberhasil">Login Berhasil</string>
+    <string name="mDaftar">Pendaftaran</string>
+    <string name="Idaftar">Registrasi Akun</string>
+    <string name="masukannama">Masukkan Nama</string>
+    <string name="masukanemail">Masukkan Email</string>
+    <string name="masukanpass">Masukkan Password</string>
+    <string name="tnama">Nama</string>
+    <string name="temail">Email</string>
+    <string name="tpassword">Password</string>
+    <string name="trepass">Re - Password</string>
+    <string name="judul">Welcome in Rey App</string>
+    <string name="regis">Register</string>
+    <string name="below">New to Todo App</string>
+    <string name="layout3">Selamat Datang</string>
+    <string name="jtask">Task</string>
+    <string name="jenis">Jenis Task</string>
+    <string name="time">Time Task</string>
+    <string name="masuktask">Masukan Task</string>
+    <string name="masukjent">Masukan Jenis Task</string>
+    <string name="masukttask">Masukan Time Task</string>
+    <string name="isitask">Ini isi task</string>
+    <string name="isijentask">Ini isi Jenis task</string>
+    <string name="isittask">Ini isi Time Task</string>
+</resources>
